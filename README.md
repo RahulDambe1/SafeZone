@@ -1,10 +1,6 @@
 # SAFEZONE
 
 
-> WebSite Link
-https://safe-zone-gules.vercel.app/
-
-
 **AI-Powered Public Safety & Emergency Response Platform**
 
 > *Every Second Matters.*
