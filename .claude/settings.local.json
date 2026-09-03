@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest *)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(npm uninstall *)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
