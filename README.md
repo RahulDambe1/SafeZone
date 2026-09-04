@@ -296,14 +296,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=
 - [ ] Safety heatmap visualization
 - [ ] Predictive incident analytics
 - [ ] Multi-language support
-- [ ] Accessibility enhancements (WCAG 2.1 AAA)
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
+- [ ] Accessibility enhancements (WCAG 2.)
 ---
 
 ## 👥 Team
